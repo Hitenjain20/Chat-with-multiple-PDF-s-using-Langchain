@@ -12,7 +12,7 @@ Chat with Multiple PDFs is an innovative application that allows users to intera
 * Efficiently store embeddings using Faiss-CPU as a vector store.
 * Utilize google/flan-t5-xxl model for answer generation.
 * Flexibility to switch between GPT4All models and Lamini for answer generation.
-* Incorporated memory mechanism to avoid hallucinations.
+* Incorporated memory mechanism to remember previous interactions, use to generate more coherent responses
 
 
 ## Installations ##
